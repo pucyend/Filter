@@ -35,3 +35,38 @@ gfx-hub.co##.page-title,.head-soc,.right-banner,.login-block,.footer,.fullcom-bl
 ! AEDOWNLOAD
 aedownload.com##.ct-footer,.ees-container,.similar-by-envato
 
+! GFXDOWNLOAD
+gfxdownload.net##.copyright-text,.site-branding,#comments,#ez-toc-container
+
+! TEXTURELABS
+texturelabs.org##.header-banner,.footer.dark-bg.container-fluid
+
+! GFXDOWNLOAD
+gfxdownload.com##.top-sale-bar,#popsapp-container,.modern-footer
+
+! GFXLIFE
+gfxlife.net##.hide-on-mobile.gb-element-ff8c003b,.gb-element-99339cf9,#comments,.site-footer,.inside-right-sidebar
+
+! VFXDOWNLOAD
+vfxdownload.net##.wpb_wrapper.jeg_wrapper > .wpb_content_element.vc_wp_text,.dark.jeg_navbar_wrapper.jeg_container.jeg_topbar,#footer,.jnews_comment_container
+
+! INTRO-HD
+intro-hd.net###main-footer,.py-3.copy-rights,#block-16
+
+! VFXMED
+www.vfxmed.com##.site-header
+
+! AEBLENDER
+www.aeblender.com##.spnc-header-logo,.site-info,.comment-form
+
+! LK21OFFICIAL
+tv9.lk21official.cc##footer,div.side-widget:nth-of-type(1)
+
+! CLOUDSPLOIT
+od.cloudsploit.top##.dark\:border-gray-500\/30.text-gray-400.font-medium.text-xs.text-center.p-4.border-gray-900\/10.border-t.w-full
+
+! FITGIRL-REPACKS
+fitgirl-repacks.site###content-sidebar,#footer-sidebar,.site-info
+
+! IGG-GAMES
+igg-games.com##.tm-headerbar-top.tm-headerbar.tm-headerbar-default > .uk-container,#post-556360 > p > [href] > [src]
