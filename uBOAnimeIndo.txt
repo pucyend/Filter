@@ -1,22 +1,22 @@
 ! Title: ⛩️ uBO Anime Indonesia
-! Homepage: https://github.com/pkrantdkstab/Filter
+! Homepage: https://github.com/pucyend/Filter
 
 ! MyNimeku
-mynimeku.com##.site-content,#primary-menu:others()
+www.mynimeku.com###footer,#adsconta,center,#container-m > .ads_area,.sharesection,.ads_afterlist.ads_area
 
 ! Doronime
-doronime.id###Header,.Content__wrapper:others()
+doronime.id##div.Content__banner--center.Content__banner:nth-of-type(2),div.Content__banner--center.Content__banner:nth-of-type(1),.col-lg-3.col-12.Sidebar > div.Content__tabs:nth-of-type(2),[href="https://bit.ly/44Y51Ps"] > .Content__banner-image,.Fixed--right.Fixed > ins,div.Fixed:nth-of-type(5) > ins,.row.Content > .col-12 > .Content__banner--center.Content__banner,div.Content__banner--center.Content__banner:nth-of-type(4),.Footer,div.alert-info.alert,div.alert-warning.alert,.Content__donation,div.Content__social,div.Download__note-item,#ShareSocials,.Content__banner--center.Content__banner
 doronime.id##.Content__wrapper:style(max-width:100% !important;)
 
 ! alqanime
-alqanime.net##.th,.postbody:others()
+alqanime.net##.announ,div.section.widget_text,div.section:nth-of-type(7),#footer
 
 ! Kusonime
-kusonime.com##.vezone,#menu:others()
+kusonime.com##div.section,#footer,#credit,.img-responsive.text-center.my-2,.socialshare,.infolink,.tagser
+kusonime.com##.venser:style(width:102%!important)
 
 ! Kuramanime
-v1.kuramanime.tel,v2.kuramanime.tel,v3.kuramanime.tel,v4.kuramanime.tel,v5.kuramanime.tel,v6.kuramanime.tel,v7.kuramanime.tel,v8.kuramanime.tel,v9.kuramanime.tel,v10.kuramanime.tel,v11.kuramanime.tel,v12.kuramanime.tel,v13.kuramanime.tel,v14.kuramanime.tel,v15.kuramanime.tel,v16.kuramanime.tel,v17.kuramanime.tel,v18.kuramanime.tel,v19.kuramanime.tel,v20.kuramanime.tel,v21.kuramanime.tel,v22.kuramanime.tel,v23.kuramanime.tel,v24.kuramanime.tel,v25.kuramanime.tel##.header__nav,.header__right,.col-lg-8,.col-lg-12:others()
-v1.kuramanime.tel,v2.kuramanime.tel,v3.kuramanime.tel,v4.kuramanime.tel,v5.kuramanime.tel,v6.kuramanime.tel,v7.kuramanime.tel,v8.kuramanime.tel,v9.kuramanime.tel,v10.kuramanime.tel,v11.kuramanime.tel,v12.kuramanime.tel,v13.kuramanime.tel,v14.kuramanime.tel,v15.kuramanime.tel,v16.kuramanime.tel,v17.kuramanime.tel,v18.kuramanime.tel,v19.kuramanime.tel,v20.kuramanime.tel,v21.kuramanime.tel,v22.kuramanime.tel,v23.kuramanime.tel,v24.kuramanime.tel,v25.kuramanime.tel##div.mt-4.p-1.breadcrumb-option,.col-sm-8.col-md-6.col-lg-4
+v1.kuramanime.ink,v2.kuramanime.ink,v3.kuramanime.ink,v4.kuramanime.ink,v5.kuramanime.ink,v6.kuramanime.ink,v7.kuramanime.ink,v8.kuramanime.ink,v9.kuramanime.ink,v10.kuramanime.ink,v11.kuramanime.ink,v12.kuramanime.ink,v13.kuramanime.ink,v14.kuramanime.ink,v15.kuramanime.ink,v16.kuramanime.ink,v17.kuramanime.ink,v18.kuramanime.ink,v19.kuramanime.ink,v20.kuramanime.ink##.footer,.breadcrumb__links__v3,div.mt-4.p-1.breadcrumb-option,.breadcrumb__links__v2
 
-! Nekopoi
-nekopoi.care##.nk-episodes-area,.nk-sidebar-optional,#nk-main-nav,.nk-episode-grid,.nk-series-info,#nk-player,.nk-download-section:others()
+! Otakudesu
+otakudesu.blog##.fb_iframe_widget.fb-page > span,#footer,#credit,.alert-info.alert,div.subheading:nth-of-type(13),.sharing,div.iklan
